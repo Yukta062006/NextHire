@@ -1,7 +1,6 @@
 # 🧠 NextHire - AI Hiring Intelligence Platform
 
-**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • FastAPI • Python • SQLAlchemy • SQLite • Gemini AI • Firebase • JWT
-
+AI • POWERED | NEXT.JS • FRONTEND | FASTAPI • BACKEND | GEMINI • AI | ADAPTIVE • INTERVIEWS | SMART • HIRING | MADE • FOR RECRUITERS
 NextHire is an AI-powered hiring platform that helps recruiters and candidates through resume analysis, job description matching, adaptive interviews, skill verification, and intelligent hiring insights.
 
 ## ✨ Features
